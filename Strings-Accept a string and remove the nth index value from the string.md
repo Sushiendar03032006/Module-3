@@ -14,9 +14,38 @@ To write a Python program that accepts a string and removes the character at a s
 7. After the loop, return the modified string `a`.
 8. Print the final result.
 
-## 💻 Program
-Add Code Here
+## 💻 Program:
 
-## Output
+# 1. Define a function named `remove` that takes the input string as an argument.
+def remove(s):
+    # 2. Read the index `n` from the user input.
+    n = int(input())
 
-## Result
+    # 3. Initialize an empty string `a` to store the new string.
+    a = ""
+
+    # 4. Iterate over each index of the string using a `for` loop.
+    for i in range(len(s)):
+        # 5. Check if the current index `i` is not equal to `n`.
+        if i != n:
+            # 6. If `i != n`, append the character at index `i` to string `a`.
+            a += s[i]
+
+    # 7. After the loop, return the modified string `a`.
+    return a
+
+# Read input string from the user
+input_str = input()
+
+# 8. Print the final result.
+print(remove(input_str))
+
+
+
+## Output:
+![Screenshot 2025-04-30 232550](https://github.com/user-attachments/assets/f998e4bf-ef27-40c8-8b1c-b01357e2da27)
+
+
+## Result:
+Python program that accepts a string and removes the character at a specified index is successfully executed.
+
