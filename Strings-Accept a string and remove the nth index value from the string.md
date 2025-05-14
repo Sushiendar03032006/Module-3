@@ -1,4 +1,4 @@
-# Module-3
+![image](https://github.com/user-attachments/assets/bc4a0d38-de03-4c43-a20c-db80704411a5)# Module-3
 # Strings-Remove Nth Index Character from a String
 
 ## Aim
@@ -44,7 +44,9 @@ print(remove(input_str))
 
 
 ## Output:
-![Screenshot 2025-04-30 232550](https://github.com/user-attachments/assets/f998e4bf-ef27-40c8-8b1c-b01357e2da27)
+![image](https://github.com/user-attachments/assets/39f6740d-53e3-4760-8a4e-9c4997769b0c)
+
+
 
 
 ## Result:
