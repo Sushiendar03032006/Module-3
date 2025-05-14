@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bc4a0d38-de03-4c43-a20c-db80704411a5)# Module-3
+# Module-3
 # Strings-Remove Nth Index Character from a String
 
 ## Aim
